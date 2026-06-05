@@ -1,0 +1,46 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Abruzzo",Rete8
+https://64b16f23efbee.streamlock.net/rete8/rete8/playlist.m3u8
+
+#EXTINF:-1 group-title="Abruzzo",Rete8 Sport
+https://edge.live-rete8.cdn.netrw.it/rete8/hls/live/rete8sport/master.m3u8?start=now-1m
+
+#EXTINF:-1 group-title="Abruzzo",Super J
+https://59d39900ebfb8.streamlock.net/SuperJtv/SuperJtv/playlist.m3u8
+
+#EXTINF:-1 group-title="Abruzzo",TVSEI
+https://654be07bf207c.streamlock.net/TvSeiHBBTV/tvseiWebPresenter/playlist.m3u8
+
+#EXTINF:-1 group-title="Abruzzo",Telemax
+https://livetv.telemaxtv.it/hls/mystream.m3u8
+
+#EXTINF:-1 group-title="Abruzzo",Telesirio
+https://www.telesirio.it/live/stream.m3u8
+
+#EXTINF:-1 group-title="Abruzzo",Info Media News
+https://64ede947d2367.streamlock.net/IMN/_definst_/IMN_source/playlist.m3u8
+
+#EXTINF:-1 group-title="Abruzzo",TRSP TV
+https://5a1178b42cc03.streamlock.net/trsptv/trsptv/playlist.m3u8
+
+#EXTINF:-1 group-title="Abruzzo",TV1 Sulmona
+https://5926fc9c7c5b2.streamlock.net/9114/9114/playlist.m3u8
+
+#EXTINF:-1 group-title="Abruzzo",AB Channel
+https://tsw.streamingwebtv24.it:1936/abchanneltv/abchanneltv/playlist.m3u8
+
+#EXTINF:-1 group-title="Abruzzo",Rete TV Italia
+https://57068da1deb21.streamlock.net/retetvitalia/retetvitalia/chunklist_w992954157.m3u8
+
+#EXTINF:-1 group-title="Abruzzo",TeleAbruzzi
+http://uk4.streamingpulse.com:1935/TeleabruzzoTV/TeleabruzzoTV/playlist.m3u8
+
+#EXTINF:-1 group-title="Molise",Telemolise 4K
+https://654be07bf207c.streamlock.net/Telemolise4K/Telemolise4K/playlist.m3u8
+
+#EXTINF:-1 group-title="Molise",TLT Molise
+https://5f22d76e220e1.streamlock.net/tltmolise/tltmolise/playlist.m3u8
+
+#EXTINF:-1 group-title="Molise",Telemolise 2 / Diciotto
+https://654be07bf207c.streamlock.net/Telemolise2-FB/Telemolise2/playlist.m3u8
