@@ -1,0 +1,1169 @@
+################################################
+# ABRUZZO
+
+################################################
+
+#EXTINF:-1 group-title="Abruzzo",Rete8 (LCN 10)
+https://64b16f23efbee.streamlock.net/rete8/rete8/playlist.m3u8
+
+#EXTINF:-1 group-title="Abruzzo",Telemax (LCN 12)
+https://livetv.telemaxtv.it/hls/mystream.m3u8
+
+#EXTINF:-1 group-title="Abruzzo",TVSEI (LCN 14)
+https://654be07bf207c.streamlock.net/TvSeiHBBTV/tvseiWebPresenter/playlist.m3u8
+
+#EXTINF:-1 group-title="Abruzzo",Info Media News (LCN 15)
+https://64ede947d2367.streamlock.net/IMN/_definst_/IMN_source/playlist.m3u8
+
+#EXTINF:-1 group-title="Abruzzo",Super J (LCN 16)
+https://59d39900ebfb8.streamlock.net/SuperJtv/SuperJtv/playlist.m3u8
+
+#EXTINF:-1 group-title="Abruzzo",Rete8 Sport (LCN 75)
+https://edge.live-rete8.cdn.netrw.it/rete8/hls/live/rete8sport/master.m3u8?start=now-1m
+
+#EXTINF:-1 group-title="Abruzzo",Telesirio (LCN 76)
+https://www.telesirio.it/live/stream.m3u8
+
+#EXTINF:-1 group-title="Abruzzo",TRSP TV (LCN 99)
+https://5a1178b42cc03.streamlock.net/trsptv/trsptv/playlist.m3u8
+
+#EXTINF:-1 group-title="Abruzzo",AB Channel
+https://tsw.streamingwebtv24.it:1936/abchanneltv/abchanneltv/playlist.m3u8
+
+#EXTINF:-1 group-title="Abruzzo",Rete TV Italia
+https://57068da1deb21.streamlock.net/retetvitalia/retetvitalia/chunklist_w992954157.m3u8
+
+#EXTINF:-1 group-title="Abruzzo",TeleAbruzzi
+http://uk4.streamingpulse.com:1935/TeleabruzzoTV/TeleabruzzoTV/playlist.m3u8
+
+#EXTINF:-1 group-title="Abruzzo",TV1 Sulmona
+https://5926fc9c7c5b2.streamlock.net/9114/9114/playlist.m3u8
+
+################################################
+# MOLISE
+
+################################################
+
+#EXTINF:-1 group-title="Molise",Rete8 (LCN 10)
+https://edge.live-rete8.cdn.netrw.it/rete8/hls/live/rete8/master.m3u8?start=now-200m
+
+#EXTINF:-1 group-title="Molise",Telemolise (LCN 11)
+http://185.202.128.1:1935/Telemolise4K/Telemolise4K/playlist.m3u8
+
+#EXTINF:-1 group-title="Molise",TVSEI (LCN 13)
+https://654be07bf207c.streamlock.net/TvSeiHBBTV/tvseiWebPresenter/playlist.m3u8
+
+#EXTINF:-1 group-title="Molise",Telemax (LCN 14)
+https://livetv.telemaxtv.it/hls/mystream.m3u8
+
+#EXTINF:-1 group-title="Molise",Info Media News (LCN 15)
+https://64ede947d2367.streamlock.net/IMN/_definst_/IMN_source/playlist.m3u8
+
+#EXTINF:-1 group-title="Molise",Super J (LCN 16)
+https://59d39900ebfb8.streamlock.net/SuperJtv/SuperJtv/playlist.m3u8
+
+#EXTINF:-1 group-title="Molise",Diciotto (LCN 18)
+https://654be07bf207c.streamlock.net/Telemolise2-FB/Telemolise2/playlist.m3u8
+
+#EXTINF:-1 group-title="Molise",Rete8 Sport (LCN 75)
+https://edge.live-rete8.cdn.netrw.it/rete8/hls/live/rete8sport/master.m3u8?start=now-1m
+
+#EXTINF:-1 group-title="Molise",TLT Molise (LCN 77)
+https://5f22d76e220e1.streamlock.net/tltmolise/tltmolise/playlist.m3u8
+
+#EXTINF:-1 group-title="Molise",TRSP TV (LCN 99)
+https://5a1178b42cc03.streamlock.net/trsptv/trsptv/playlist.m3u8
+
+#EXTINF:-1 group-title="Molise",Telemolise 4K
+https://654be07bf207c.streamlock.net/Telemolise4K/Telemolise4K/playlist.m3u8
+
+################################################
+# BASILICATA
+
+################################################
+
+#EXTINF:-1 group-title="Basilicata",Cronache TV (LCN 76)
+http://77.68.40.210:8888/hls/cronache.m3u8
+
+#EXTINF:-1 group-title="Basilicata",La Nuova TV (LCN 82)
+https://5dcabf026b188.streamlock.net/lanuovatvbas/livestream/playlist.m3u8
+
+#EXTINF:-1 group-title="Basilicata",Carina TV (LCN 85)
+https://samson.streamerr.co:8081/carinatv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Basilicata",Radio Città TV (LCN 89)
+https://stream10.xdevel.com/video0s977971-2391/stream/playlist.m3u8
+
+################################################
+# CAMPANIA
+
+################################################
+
+#EXTINF:-1 group-title="Campania",Tele A (LCN 13)
+https://cdn-eu-west-prod-ingest-infra-dacast-com.akamaized.net/87ea1bcb-43b8-40fe-99d3-6f56420a9124/index.m3u8
+
+#EXTINF:-1 group-title="Campania",Canale 8 (LCN 14)
+https://stream10.xdevel.com/video14s975955-1911/stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Campania",Otto Channel (LCN 16)
+https://load-balancer.azotosolutions.com/cdnedge/smil:live.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Campania",Lira TV (LCN 18)
+https://a928c0678d284da5b383f29ecc5dfeec.msvdn.net/live/S57315730/8kTBWibNteJA/playlist.m3u8
+
+#EXTINF:-1 group-title="Campania",Telecolore (LCN 75)
+https://stream10.xdevel.com/video14s975955-1911/stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Campania",Tele Club Italia (LCN 77)
+https://teleclubitalia.iostream.it/teleclubitalia.m3u8
+
+#EXTINF:-1 group-title="Campania",Stile TV (LCN 78)
+https://proxy.media.convergenze.it/stiletv/streams/oQOFd7JglHjO1631525551097.m3u8
+
+#EXTINF:-1 group-title="Campania",Info Cilento (LCN 79)
+https://nrvideo1.newradio.it:1936/pskfvahhcs/pskfvahhcs/playlist.m3u8
+
+#EXTINF:-1 group-title="Campania",Nora TV (LCN 79)
+https://57068da1deb21.streamlock.net/noratv/noratv/playlist.m3u8
+
+#EXTINF:-1 group-title="Campania",Nuvola TV (LCN 80)
+https://stream.nuvola.tv:8181/memfs/4aaa6328-1879-4ebf-b18a-498146d0c61c.m3u
+
+#EXTINF:-1 group-title="Campania",Teleischia (LCN 81)
+https://rst.saiuzwebnetwork.it:8081/teleischia/index.m3u8
+
+#EXTINF:-1 group-title="Campania",Teleluna (LCN 83)
+https://diretta.arcapuglia.it:8080/live/teleluna/index.m3u8
+
+#EXTINF:-1 group-title="Campania",Radio CRC TV (LCN 84)
+https://flash2.xdevel.com/crctv/crctv/playlist.m3u8
+
+#EXTINF:-1 group-title="Campania",Telelaser (LCN 91)
+https://585b674743bbb.streamlock.net/9022/9022/playlist.m3u8
+
+#EXTINF:-1 group-title="Campania",Videonola (LCN 94)
+https://videonola.aswifi.it/videonolaabr/live.m3u8
+
+#EXTINF:-1 group-title="Campania",TV7 Benevento (LCN 96)
+https://msh0320.stream.seeweb.it/live/flv:tv7.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="Campania",Prima TV Napoli (LCN 97)
+https://57068da1deb21.streamlock.net/primatvnapoli/primatvnapoli/playlist.m3u8
+
+#EXTINF:-1 group-title="Campania",SET TV (LCN 97)
+https://stream1.aswifi.it/settv/live/index.m3u8
+
+#EXTINF:-1 group-title="Campania",Campi Flegrei TV (LCN 99)
+https://rst2.saiuzwebnetwork.it:8081/campiflegreitv/index.m3u8
+
+#EXTINF:-1 group-title="Campania",Quarta Rete (LCN 181)
+https://msh0232.stream.seeweb.it/live/stream00.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="Campania",Partenope TV (LCN 189)
+https://diretta.arcapuglia.it:8080/live/partenope/index.m3u8
+
+#EXTINF:-1 group-title="Campania",111 TV
+https://rst.saiuzwebnetwork.it:8081/telemiracoli/index.m3u8
+
+#EXTINF:-1 group-title="Campania",Canale 21
+https://streamcdnb1-0ff9dd7fe9b64bc08a5fc4ed525454c3.msvdn.net/live/S38994111/B7j0ql4XaZtE/playlist.m3u8
+
+#EXTINF:-1 group-title="Campania",Canale 21 Extra
+https://0ff9dd7fe9b64bc08a5fc4ed525454c3.msvdn.net/live/S42170132/sT6C3LFaD1iA/playlist.m3u8
+
+#EXTINF:-1 group-title="Campania",Extra TV Live
+https://rst.saiuzwebnetwork.it:8081/extratvlive/index.m3u8
+
+#EXTINF:-1 group-title="Campania",Istituzioni TV
+https://rst.saiuzwebnetwork.it:8081/istituzioni/index.m3u8
+
+#EXTINF:-1 group-title="Campania",Lacco Ameno TV
+https://rst.saiuzwebnetwork.it:8081/laccoamenotv/index.m3u8
+
+#EXTINF:-1 group-title="Campania",Minformo TV
+https://5db313b643fd8.streamlock.net:443/MinformoTV/MinformoTV/playlist.m3u8
+
+#EXTINF:-1 group-title="Campania",Per Sempre News
+https://rst.saiuzwebnetwork.it:8081/persemprenews/index.m3u8
+
+#EXTINF:-1 group-title="Campania",Quarto Canale Flegreo
+http://live.mariatvcdn.com/dialogos/171e41deedf405f10c7dd6311387fb43.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="Campania",Radio Napoli Emme TV
+https://rtmp.streams.ovh:1936/radionapoliemme/radionapoliemme/playlist.m3u8
+
+#EXTINF:-1 group-title="Campania",Tele Futura
+https://rst2.saiuzwebnetwork.it:8081/telefutura/index.m3u8
+
+#EXTINF:-1 group-title="Campania",TVNM1
+https://rtmp.streams.ovh:1936/radionapoliemme/radionapoliemme/playlist.m3u8
+
+#EXTINF:-1 group-title="Campania",Kiss Kiss Napoli TV
+https://kkcdn02.fluid.stream/KKTVNapoli/smil:KKTVNapoli.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Campania",Stereo 5 TV
+https://stream1.aswifi.it/stereo5/live/index.m3u8
+
+#EXTINF:-1 group-title="Campania",Campania TV
+https://rst2.saiuzwebnetwork.it:8081/telemiracoli/index.m3u8
+
+#EXTINF:-1 group-title="Campania",Zona RCS 75 TV
+https://stream9.xdevel.com/video0s975429-131/stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Campania",Lab TV
+https://customer-yzibk50951uq418a.cloudflarestream.com/a58893dee4b9922a75e41b4ec4243f84/manifest/video.m3u8?parentOrigin=https%3A%2F%2Fwww.labtv.net
+
+#EXTINF:-1 group-title="Campania",Radio Marte TV
+https://router.xdevel.com/video0s975753-750/stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Campania",Radio Ibiza TV
+https://5929b138b139d.streamlock.net/RadioIbizaTV/livestream/playlist.m3u8
+
+################################################
+# CALABRIA
+
+################################################
+
+#EXTINF:-1 group-title="Calabria",Video Calabria 10 (LCN 10)
+https://streamcdnr1-a8a02dd9a49a4fc9810743615c65ab73.msvdn.net/live/S76734991/i6NeNqLYaspb/playlist.m3u8
+
+#EXTINF:-1 group-title="Calabria",LaC TV (LCN 11)
+https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S47282891/JWjL3xqPf4bX/playlist.m3u8
+
+#EXTINF:-1 group-title="Calabria",TEN TV (LCN 12)
+https://streamcdnb2-7640f9b3494e4d1fb307f886e3b60402.msvdn.net/live/S41081260/ohLhSxDNpDNC/playlist.m3u8
+
+#EXTINF:-1 group-title="Calabria",Calabria TV Canale 13 (LCN 13)
+https://64b16f23efbee.streamlock.net/calabriatv/calabriatv/playlist.m3u8
+
+#EXTINF:-1 group-title="Calabria",RTI Calabria (LCN 14)
+https://stream.ets-sistemi.it:8081/rticalabria/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Calabria",Esperia TV (LCN 15)
+https://59d7d6f47d7fc.streamlock.net/esperiatv/esperiatv/playlist.m3u8
+
+#EXTINF:-1 group-title="Calabria",LaC OnAir (LCN 17)
+https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/324215/zPnHWY2/playlist.m3u8
+
+#EXTINF:-1 group-title="Calabria",Tele A1 (LCN 18)
+https://stream.ets-sistemi.it:8081/telea1-live/index.m3u8
+
+#EXTINF:-1 group-title="Calabria",L'Altro Corriere TV (LCN 75)
+https://52ee6512fee4427889eba89957975fa0.msvdn.net/live/S24350460/BEj8ZmQiQ9UG/playlist.m3u8
+
+#EXTINF:-1 group-title="Calabria",Matrix TV (LCN 76)
+https://64b16f23efbee.streamlock.net/grandeitaliatv/grandeitaliatv/playlist.m3u8
+
+#EXTINF:-1 group-title="Calabria",Telemia (LCN 76)
+https://playerssl.telemia.tv/fileadmin/hls/TelemiaHD/telemia85_mediachunks.m3u8
+
+#EXTINF:-1 group-title="Calabria",ReggioTV (LCN 77)
+https://cdn10.streamshow.it/cloud-reggiotv/reggiotv/playlist.m3u8
+
+#EXTINF:-1 group-title="Calabria",RTC Telecalabria (LCN 78)
+https://w1.mediastreaming.it/calabriachannel/livestream/playlist.m3u8
+
+#EXTINF:-1 group-title="Calabria",Rete 3 Digiesse (LCN 81)
+https://w1.mediastreaming.it/digiesse/livestream/playlist.m3u8
+
+#EXTINF:-1 group-title="Calabria",Jonica Radio TV (LCN 82)
+https://5a1178b42cc03.streamlock.net/jonica/jonica/playlist.m3u8
+
+#EXTINF:-1 group-title="Calabria",Telejonio (LCN 82)
+http://59d7d6f47d7fc.streamlock.net/telejonio/telejonio/playlist.m3u8
+
+#EXTINF:-1 group-title="Calabria",GS Channel (LCN 83)
+https://rst.saiuzwebnetwork.it:8081/retereggio/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Calabria",Eccellenza Calabria (LCN 85)
+https://604e46ac2bdee.streamlock.net:1936/eccelenzacalabria/eccelenzacalabria/playlist.m3u8
+
+#EXTINF:-1 group-title="Calabria",Turismo TV (LCN 90)
+https://64b16f23efbee.streamlock.net/turismotv/turismotv/playlist.m3u8
+
+#EXTINF:-1 group-title="Calabria",Promovideo TV (LCN 94)
+https://media2021.rtvweb.com/promovideo_web/promovideo/chunklist_w926768377.m3u8
+
+#EXTINF:-1 group-title="Calabria",ADN24 Italia (LCN 113)
+https://64b16f23efbee.streamlock.net/adn24tv/adn24tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Calabria",TUA Channel (LCN 113)
+https://media2021.rtvweb.com/promovideo_web/tuachannel/playlist.m3u8
+
+#EXTINF:-1 group-title="Calabria",Media Sud TV (LCN 116)
+https://5f22d76e220e1.streamlock.net/mediasud/mediasud/playlist.m3u8
+
+#EXTINF:-1 group-title="Calabria",Tele Bruzzano (LCN 117)
+https://playerssl.telemia.tv/fileadmin/hls/Telebruzzano/telebruzzano_mediachunks.m3u8
+
+#EXTINF:-1 group-title="Calabria",Piana TV (LCN 185)
+https://playerssl.telemia.tv/fileadmin/hls/PianaTV/pianatv_mediachunks.m3u8
+
+#EXTINF:-1 group-title="Calabria",Telemia Extra (LCN 199)
+https://playerssl.telemia.tv/fileadmin/hls/TelemiaExtra/telemiaextra_mediachunks.m3u8
+
+#EXTINF:-1 group-title="Calabria",Italia Cable TV (LCN 833 HbbTV)
+https://5f22d76e220e1.streamlock.net/italiacable/italiacable/chunklist_w1754775585.m3u8
+
+#EXTINF:-1 group-title="Calabria",Calabria Uno TV
+https://635320cd397eb.streamlock.net/live/calabriaunolive/playlist.m3u8
+
+#EXTINF:-1 group-title="Calabria",LaC Network
+https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S27391994/HVvPMzy/playlist.m3u8
+
+#EXTINF:-1 group-title="Calabria",LaC Sat Internazionale
+https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S18645024/mMAMHAA4IyPq/playlist.m3u8
+
+################################################
+# EMILIA-ROMAGNA
+
+################################################
+
+#EXTINF:-1 group-title="Emilia-Romagna",ÈTV Rete 7 (LCN 10)
+https://live.ipstream.it/etv/etv.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Emilia-Romagna",TRC Modena (LCN 11)
+https://trm-trcmodena.cdn.netrw.it/event/hls/ccr/trcmodena/master.m3u8?start=now-320m
+
+#EXTINF:-1 group-title="Emilia-Romagna",7 Gold Sestarete (LCN 12)
+https://dddfac816632463dac50b21109dc1bb3.msvdn.net/live/S58803518/OOZape6Nxp4H/playlist.m3u8
+
+#EXTINF:-1 group-title="Emilia-Romagna",Teleromagna (LCN 14)
+https://livetr.teleromagna.it/teleromagna/live/playlist.m3u8
+
+#EXTINF:-1 group-title="Emilia-Romagna",TRC Bologna (LCN 15)
+https://trm-trcbologna.cdn.netrw.it/event/hls/ccr/trcbologna/master.m3u8?start=now-320m
+
+#EXTINF:-1 group-title="Emilia-Romagna",12 TV Parma HD (LCN 16)
+https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
+#EXTINF:-1 group-title="Emilia-Romagna",TvQui HD (LCN 17)
+https://59d7d6f47d7fc.streamlock.net/tvqui/tvqui/playlist.m3u8
+
+#EXTINF:-1 group-title="Emilia-Romagna",Icaro TV (LCN 18)
+https://59d7d6f47d7fc.streamlock.net/icarotv/icarotv/playlist.m3u8
+
+#EXTINF:-1 group-title="Emilia-Romagna",Radio Bruno TV (LCN 73)
+https://router.xdevel.com/video0s975758-473/stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Emilia-Romagna",Telelibertà (LCN 76)
+https://liberta.cdn.streamup.eu/origin/teleliberta_abr/playlist.m3u8
+
+#EXTINF:-1 group-title="Emilia-Romagna",Telesanterno (LCN 76)
+https://media2021.rtvweb.com/di_tv_92/live/playlist.m3u8
+
+#EXTINF:-1 group-title="Emilia-Romagna",TR Sport (LCN 78)
+http://livetr.teleromagna.it/mia/live/playlist.m3u8
+
+#EXTINF:-1 group-title="Emilia-Romagna",Telecentro (LCN 80)
+https://5f22d76e220e1.streamlock.net/ditv80/ditv80/playlist.m3u8
+
+#EXTINF:-1 group-title="Emilia-Romagna",Rete 8 Casa (LCN 81)
+https://dddfac816632463dac50b21109dc1bb3.msvdn.net/live/S29887338/irn4sIk4aeF2/playlist.m3u8
+
+#EXTINF:-1 group-title="Emilia-Romagna",MadeinBO TV Canale 88 (LCN 88)
+https://srvx1.selftv.video/dmchannel/live/playlist.m3u8
+
+#EXTINF:-1 group-title="Emilia-Romagna",Magazine TV (LCN 91)
+https://media2021.rtvweb.com/magazinetv/web/playlist.m3u8
+
+#EXTINF:-1 group-title="Emilia-Romagna",Teletricolore (LCN 97)
+https://59d7d6f47d7fc.streamlock.net/rs2/rs2/playlist.m3u8
+
+#EXTINF:-1 group-title="Emilia-Romagna",Radio Studio Delta TV
+https://router.xdevel.com/video0s975758-473/stream/playlist.m3u8
+
+################################################
+# FRIULI-VENEZIA GIULIA
+
+################################################
+
+#EXTINF:-1 group-title="Friuli-Venezia Giulia",Telequattro (LCN 10)
+http://wms.shared.streamshow.it/telequattro/telequattro/chunklist_w1388066579.m3u8
+
+#EXTINF:-1 group-title="Friuli-Venezia Giulia",TeleFriuli (LCN 11)
+https://5757bf2aa08e42248fb9b9d620f5d900.msvdn.net/live/S11646715/pE3ax0lT0rBd/playlist.m3u8
+
+#EXTINF:-1 group-title="Friuli-Venezia Giulia",TV 12 (LCN 12)
+https://59d7d6f47d7fc.streamlock.net/tv12/tv12/playlist.m3u8
+
+#EXTINF:-1 group-title="Friuli-Venezia Giulia",Antenna Tre Veneto (LCN 15)
+https://59d7d6f47d7fc.streamlock.net/antennatreveneto/antennatreveneto.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Friuli-Venezia Giulia",Canale 77 (LCN 77)
+https://load-balancer.azotosolutions.com/cdnedge16/smil:live16.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Friuli-Venezia Giulia",Tele Alto But (LCN 91)
+https://load-balancer.azotosolutions.com/cdnedge34/telealtobut/playlist.m3u8
+
+#EXTINF:-1 group-title="Friuli-Venezia Giulia",RAN Friul (LCN 93)
+https://load-balancer.azotosolutions.com/cdnedge34/ranfriul/playlist.m3u8
+
+#EXTINF:-1 group-title="Friuli-Venezia Giulia",RAN Germ (LCN 94)
+https://load-balancer.azotosolutions.com/cdnedge34/rangerm/playlist.m3u8
+
+#EXTINF:-1 group-title="Friuli-Venezia Giulia",RAN Slo (LCN 95)
+https://load-balancer.azotosolutions.com/cdnedge34/ranslo/playlist.m3u8
+
+#EXTINF:-1 group-title="Friuli-Venezia Giulia",RAN Network (LCN 96)
+https://load-balancer.azotosolutions.com/cdnedge34/ranetwork/playlist.m3u8
+
+#EXTINF:-1 group-title="Friuli-Venezia Giulia",RAN News (LCN 99)
+https://load-balancer.azotosolutions.com/cdnedge34/ranwes/playlist.m3u8
+
+#EXTINF:-1 group-title="Friuli-Venezia Giulia",RAN Stereo (LCN 700)
+https://load-balancer.azotosolutions.com/cdnedge34/ranstereo/playlist.m3u8
+
+#EXTINF:-1 group-title="Friuli-Venezia Giulia",Canale 6
+http://195.231.82.127:8082/hls/test_low.m3u8
+
+#EXTINF:-1 group-title="Friuli-Venezia Giulia",Radio Punto Zero TV
+https://58d921499d3d3.streamlock.net/RPZ/livestream/playlist.m3u8
+
+#EXTINF:-1 group-title="Friuli-Venezia Giulia",RAN Sport
+https://load-balancer.azotosolutions.com/cdnedge34/ransport/playlist.m3u8
+
+#EXTINF:-1 group-title="Friuli-Venezia Giulia",RDE TV
+https://rst2.saiuzwebnetwork.it:8081/prosol/index.m3u8
+
+#EXTINF:-1 group-title="Friuli-Venezia Giulia",Tuya TV
+https://load-balancer.azotosolutions.com/cdnedge16/smil:live16.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Friuli-Venezia Giulia",TVM
+http://195.231.82.127:8081/hls/test_low.m3u8
+
+#EXTINF:-1 group-title="Friuli-Venezia Giulia",VideoTeleCarnia
+https://rst2.saiuzwebnetwork.it:8081/vtccarnia/index.m3u8
+
+################################################
+# LAZIO
+
+################################################
+
+#EXTINF:-1 group-title="Lazio",Canale 10 HD (LCN 10)
+https://nrvideo1.newradio.it/desxcerbht/desxcerbht/playlist.m3u8
+
+#EXTINF:-1 group-title="Lazio",Gold TV (LCN 11)
+https://streaming.softwarecreation.it/GoldTv/GoldTv/playlist.m3u8
+
+#EXTINF:-1 group-title="Lazio",Teleuniverso (LCN 12)
+https://stream.ets-sistemi.it:19360/teleuniverso/teleuniverso.m3u8
+
+#EXTINF:-1 group-title="Lazio",Lazio TV (LCN 13)
+https://streaming.softwarecreation.it/LazioTv/LazioTv/playlist.m3u8
+
+#EXTINF:-1 group-title="Lazio",Radio Roma News (LCN 14)
+https://www.dailymotion.com/cdn/live/video/x96kf9k.m3u8
+
+#EXTINF:-1 group-title="Lazio",Radio Roma TV (LCN 15)
+https://www.dailymotion.com/cdn/live/video/x96kfby.m3u8
+
+#EXTINF:-1 group-title="Lazio",T9 (LCN 17)
+https://streaming.softwarecreation.it/tnove/tnove/playlist.m3u8
+
+#EXTINF:-1 group-title="Lazio",Teleambiente (LCN 18)
+https://5f22d76e220e1.streamlock.net/teleambiente2024/teleambiente2024/playlist.m3u8
+
+#EXTINF:-1 group-title="Lazio",Canale 21 Extra (LCN 19)
+https://0ff9dd7fe9b64bc08a5fc4ed525454c3.msvdn.net/live/S42170132/sT6C3LFaD1iA/playlist.m3u8
+
+#EXTINF:-1 group-title="Lazio",Teleregione 74 (LCN 74)
+https://streaming.softwarecreation.it/TR118/TR118/playlist.m3u8
+
+#EXTINF:-1 group-title="Lazio",Rete Oro (LCN 77)
+https://5926fc9c7c5b2.streamlock.net/9094/9094/playlist.m3u8
+
+#EXTINF:-1 group-title="Lazio",TRL (LCN 80)
+https://5db313b643fd8.streamlock.net/TRL/TRL/playlist.m3u8
+
+#EXTINF:-1 group-title="Lazio",Canale 81 Lazio (LCN 81)
+https://5f22d76e220e1.streamlock.net/canale81lazio/canale81lazio/playlist.m3u8
+
+#EXTINF:-1 group-title="Lazio",TeleRoma 2 (LCN 83)
+https://streaming.softwarecreation.it/tnove/tnove/playlist.m3u8
+
+#EXTINF:-1 group-title="Lazio",RTR 99 TV (LCN 87)
+https://str38.fluid.stream/RTR99TV/livestream/playlist.m3u8
+
+#EXTINF:-1 group-title="Lazio",Media TV (LCN 93)
+https://stream3.aswifi.it/mediatv/stream/index.m3u8
+
+#EXTINF:-1 group-title="Lazio",Teleitalia 41 (LCN 95)
+https://streaming.softwarecreation.it/teleitalia/teleitalia/playlist.m3u8
+
+#EXTINF:-1 group-title="Lazio",La Rockaforte TV (LCN 110)
+https://5926fc9c7c5b2.streamlock.net/npwsqkmzjp/npwsqkmzjp/playlist.m3u8
+
+#EXTINF:-1 group-title="Lazio",Rete Sole (LCN 110)
+https://5926fc9c7c5b2.streamlock.net/9332/9332/playlist.m3u8
+
+#EXTINF:-1 group-title="Lazio",TU DAY (LCN 112)
+https://stream.ets-sistemi.it:19360/tuday/tuday.m3u8
+
+#EXTINF:-1 group-title="Lazio",TeleTibur (LCN 119)
+https://57068da1deb21.streamlock.net/teletibur/teletibur/playlist.m3u8
+
+#EXTINF:-1 group-title="Lazio",TV SL48 (LCN 119)
+https://streaming.softwarecreation.it/sl48/sl48/playlist.m3u8
+
+#EXTINF:-1 group-title="Lazio",Extra TV Live (LCN 194)
+https://rst2.saiuzwebnetwork.it:8081/extratvlive/index.m3u8
+
+#EXTINF:-1 group-title="Lazio",Radio Immagine TV (LCN 212)
+https://media.velcom.it:8081/radioimmaginetv/index.fmp4.m3u8
+
+#EXTINF:-1 group-title="Lazio",StandBy TV (LCN 299)
+https://5926fc9c7c5b2.streamlock.net/standbytv/standbytv/playlist.m3u8
+
+################################################
+# LIGURIA
+
+################################################
+
+#EXTINF:-1 group-title="Liguria",Primocanale (LCN 10)
+https://msh0203.stream.seeweb.it/live/flv:stream2.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="Liguria",Telenord HD (LCN 11)
+https://5f22d76e220e1.streamlock.net:443/telenord/telenord/playlist.m3u8
+
+#EXTINF:-1 group-title="Liguria",Telecupole Liguria (LCN 13)
+https://d4k.it/hls/live3/live.m3u8
+
+#EXTINF:-1 group-title="Liguria",Telegenova (LCN 14)
+https://64b16f23efbee.streamlock.net/telegenova/telegenova/playlist.m3u8
+
+#EXTINF:-1 group-title="Liguria",TLS Tele Liguria Sud (LCN 15)
+https://5f22d76e220e1.streamlock.net/tls/tls/chunklist_w679023458.m3u8
+
+#EXTINF:-1 group-title="Liguria",Entella TV (LCN 75)
+https://5f22d76e220e1.streamlock.net/EntellaTV/EntellaTV/chunklist_w217528347.m3u8
+
+#EXTINF:-1 group-title="Liguria",Luna TV (LCN 81)
+https://5f22d76e220e1.streamlock.net/lunatv/lunatv/playlist.m3u8
+
+#EXTINF:-1 group-title="Liguria",111 TV (LCN 111)
+https://5db313b643fd8.streamlock.net/111/111/playlist.m3u8
+
+################################################
+# LOMBARDIA
+
+################################################
+
+#EXTINF:-1 group-title="Lombardia",Telecity Lombardia (LCN 13)
+https://64b16f23efbee.streamlock.net/telecitylombardia/telecitylombardia/playlist.m3u8
+
+#EXTINF:-1 group-title="Lombardia",Espansione TV (LCN 14)
+https://streamcdnm5-b53136fc0d724da78cac7754d601393d.msvdn.net/live/S13070333/lgUidxJCmpO3/playlist.m3u8
+
+#EXTINF:-1 group-title="Lombardia",Bergamo TV (LCN 15)
+https://db142859fd5541b09de25d6507f1f2d3.msvdn.net/live/S17501676/oIxAsgEEA46M/playlist.m3u8?DVR=
+
+#EXTINF:-1 group-title="Lombardia",TeleTutto (LCN 16)
+https://3177cee185284d2990021eccc8b06ae6.msvdn.net/live/S55287570/tq6PELOcQoAf/playlist.m3u8
+
+#EXTINF:-1 group-title="Lombardia",Telecolor Lombardia (LCN 17)
+https://1aadf145546f475282c5b4e658c0ac4b.msvdn.net/live/324149/hlbAWtl/chunklist_b3128000.m3u8
+
+#EXTINF:-1 group-title="Lombardia",Telenova (LCN 18)
+https://64b16f23efbee.streamlock.net/telenova/telenova/playlist.m3u8
+
+#EXTINF:-1 group-title="Lombardia",CR1 - Cremona 1 (LCN 19)
+https://cdn2.streamshow.it/cloud-cremona1/cremona1/playlist.m3u8
+
+#EXTINF:-1 group-title="Lombardia",Unica TV (LCN 75)
+https://db142859fd5541b09de25d6507f1f2d3.msvdn.net/live/S84376118/gnJqPnxrsLcY/playlist.m3u8
+
+#EXTINF:-1 group-title="Lombardia",Milano Pavia TV (LCN 78)
+https://59d7d6f47d7fc.streamlock.net/telepavia/telepavia/playlist.m3u8
+
+#EXTINF:-1 group-title="Lombardia",Canale1 Lombardia - ONE TV NBC (LCN 79)
+https://media2.streambrothers.com:19360/8160/8160.m3u8
+
+#EXTINF:-1 group-title="Lombardia",Lombardia TV (LCN 80)
+https://5db313b643fd8.streamlock.net/lmbiatv/lmbiatv/playlist.m3u8
+
+#EXTINF:-1 group-title="Lombardia",TeleBoario (LCN 81)
+https://stream6.xdevel.com/video0s976425-1243/stream/playlist_dvr.m3u8
+
+#EXTINF:-1 group-title="Lombardia",Più Valli TV (LCN 83)
+https://5db313b643fd8.streamlock.net/piuvallitv/piuvallitv/playlist.m3u8
+
+#EXTINF:-1 group-title="Lombardia",Antenna 2 Bergamo (LCN 84)
+https://58f12ffd2447a.streamlock.net/Antenna2/livestream/playlist.m3u8
+
+#EXTINF:-1 group-title="Lombardia",TSN - Tele Sondrio News (LCN 85)
+https://189790-castr.akamaized.net/633d685a281cd401ae82c2f7/live_bc04bf70449f11ed80952100db9e5fd9/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Lombardia",TT2 - TeleTutto 2 (LCN 87)
+https://3177cee185284d2990021eccc8b06ae6.msvdn.net/live/S75141837/T3wd5WoxAo4B/playlist.m3u8
+
+#EXTINF:-1 group-title="Lombardia",Rete 55 (LCN 88)
+https://live1.giocabet.tv/stream/6/index.m3u8
+
+#EXTINF:-1 group-title="Lombardia",SeilaTV Bergamo (LCN 94)
+https://nrvideo1.newradio.it:1936/efstzahwew/efstzahwew/playlist.m3u8
+
+#EXTINF:-1 group-title="Lombardia",Super TV (LCN 96)
+http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8
+
+#EXTINF:-1 group-title="Lombardia",Rete 7 Lombardia (LCN 116)
+https://stream.ets-sistemi.it:2020/hls/rete7-live/rete7-live.m3u8
+
+#EXTINF:-1 group-title="Lombardia",Tele Leonessa (LCN 119)
+http://wms.shared.streamshow.it:1935/teleleonessa/teleleonessa/live.m3u8
+
+#EXTINF:-1 group-title="Lombardia",ÈliveBrescia TV (LCN 181)
+https://59d7d6f47d7fc.streamlock.net/elivebresciatv/elivebresciatv/chunklist_w1234149773.m3u8
+
+#EXTINF:-1 group-title="Lombardia",TT24 - TeleTutto 24 (LCN 193)
+https://3177cee185284d2990021eccc8b06ae6.msvdn.net/live/S64637685/c2e0XXmwILE9/playlist.m3u8
+
+#EXTINF:-1 group-title="Lombardia",TeleMantova (LCN 277)
+https://5ce9406b73c33.streamlock.net/TeleMantova/livestream/chunklist_w219870635.m3u8
+
+#EXTINF:-1 group-title="Lombardia",Radio 51 TV (LCN 636)
+http://wms.shared.streamshow.it/canale51/canale51/playlist.m3u8
+
+#EXTINF:-1 group-title="Lombardia",Italia 9 Network
+https://live20.bozztv.com/akamaissh101/ssh101/italia9network/chunks.m3u8
+
+#EXTINF:-1 group-title="Lombardia",Radio Lombardia TV
+https://stream9.xdevel.com/video0s976574-1330/stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Lombardia",Valenza TV
+https://uvotv.zappr.stream/368.m3u8
+
+################################################
+# MARCHE
+
+################################################
+
+#EXTINF:-1 group-title="Marche",Vera TV (LCN 11)
+https://cdn9.streamshow.it/cloud-veratv/veratv/playlist.m3u8
+
+#EXTINF:-1 group-title="Marche",ÈTV Marche (LCN 12)
+https://live.ipstream.it/etvmarche/etvmarche.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Marche",TVRS (LCN 13)
+https://cdn8.streamshow.it/cloud-tvrs/tvrs/playlist.m3u8
+
+#EXTINF:-1 group-title="Marche",VideoTolentino (LCN 16)
+https://origin.live-dvbt2.it:9553/8006/8006/playlist.m3u8
+
+#EXTINF:-1 group-title="Marche",ÈTV+ Marche (LCN 17)
+https://live.ipstream.it/etvmarche2/etvmarche2.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Marche",Fano TV (LCN 19)
+https://diretta.arcapuglia.it:8080/live/fanotv/index.m3u8
+
+#EXTINF:-1 group-title="Marche",Radio Linea TV (LCN 76)
+https://64b16f23efbee.streamlock.net/radiolineatv/radiolineatv/playlist.m3u8
+
+#EXTINF:-1 group-title="Marche",Studio 7 TV HD (LCN 78)
+https://stream9.xdevel.com/video0s976596-1371/stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Marche",Rossini TV (LCN 80)
+https://stream.rossinitv.it/memfs/3bca4ad7-adfc-4610-ac0e-e826743ddc57.m3u8
+
+#EXTINF:-1 group-title="Marche",Emme TV (LCN 89)
+https://live20.bozztv.com/akamaissh101/ssh101/emmetv89/playlist.m3u8
+
+#EXTINF:-1 group-title="Marche",Skyline TV (LCN 96)
+https://64b16f23efbee.streamlock.net/skylinetv/skylinetv/playlist.m3u8
+
+#EXTINF:-1 group-title="Marche",Arancia Television (LCN 98)
+https://stream3.xdevel.com/video0s975447-164/stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Marche",RTM (LCN 99)
+https://cdn17.streamshow.it/cloud-rtmtv/rtmtv.stream/playlist.m3u8
+
+################################################
+# PIEMONTE
+
+################################################
+
+#EXTINF:-1 group-title="Piemonte",Telecity Piemonte (LCN 10)
+https://64b16f23efbee.streamlock.net/telecitypiemonte/telecitypiemonte/playlist.m3u8
+
+#EXTINF:-1 group-title="Piemonte",Telecupole (LCN 11)
+https://d4k.it/hls/live2/live.m3u8
+
+#EXTINF:-1 group-title="Piemonte",Rete 7 HD (LCN 13)
+https://stream.ets-sistemi.it:2020/hls/rete7-live/rete7-live.m3u8
+
+#EXTINF:-1 group-title="Piemonte",Primantenna (LCN 14)
+https://5f22d76e220e1.streamlock.net/primantenna14/primantenna14/playlist.m3u8
+
+#EXTINF:-1 group-title="Piemonte",GRP Vera TV (LCN 15)
+https://webstream.multistream.it/memfs/a3195c96-f884-4c74-924f-2648814fc0b5.m3u8
+
+#EXTINF:-1 group-title="Piemonte",Sesta Rete (LCN 16)
+https://stream10.xdevel.com/video0s977089-1792/stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Piemonte",VCO Azzurra TV (LCN 17)
+https://ed04.top-ix.org/avtvlive/azzurra/streaming/playlist.m3u8
+
+#EXTINF:-1 group-title="Piemonte",Video Novara (LCN 19)
+https://ed04.top-ix.org/avtvlive/videonovara/streaming/chunklist_w1517872620.m3u8
+
+#EXTINF:-1 group-title="Piemonte",Motori TV (LCN 78)
+https://5f22d76e220e1.streamlock.net/servizio01/servizio01/playlist.m3u8
+
+#EXTINF:-1 group-title="Piemonte",Onda Novara TV (LCN 80)
+https://585b674743bbb.streamlock.net/9006/9006/master.m3u8
+
+#EXTINF:-1 group-title="Piemonte",Giocabet TV (LCN 82)
+https://live1.giocabet.tv/stream/1/index.m3u8
+
+#EXTINF:-1 group-title="Piemonte",RBE-TV (LCN 87)
+https://5f22d76e220e1.streamlock.net/rbetv/rbetv/playlist.m3u8
+
+#EXTINF:-1 group-title="Piemonte",ReteBiella TV (LCN 91)
+https://sb.top-ix.org/retebiella/streaming/playlist.m3u8
+
+#EXTINF:-1 group-title="Piemonte",Radio 4 You TV (LCN 98)
+https://streamsrv2.nets-sr.com:19360/4youtv/4youtv.m3u8
+
+#EXTINF:-1 group-title="Piemonte",TeleBiella (HbbTV)
+https://wb.top-ix.org/redirect/avtvlive/telebiella/streaming?type=m3u8
+
+#EXTINF:-1 group-title="Piemonte",Oropa TV
+https://5926fc9c7c5b2.streamlock.net/9078/9078/playlist.m3u8
+
+################################################
+# PUGLIA
+
+################################################
+
+#EXTINF:-1 group-title="Puglia",Telenorba (LCN 10)
+https://stream10.xdevel.com/video2s976570-2117/stream/playlist_dvr.m3u8
+
+#EXTINF:-1 group-title="Puglia",Radio Norba Television (LCN 11)
+https://stream7.xdevel.com/video0s975885-2346/stream/playlist_dvr.m3u8
+
+#EXTINF:-1 group-title="Puglia",TG Norba 24 (LCN 13)
+https://live-telenorba.cdn.netrw.it/telenorba/hls/ccr/tgnorba/master.m3u8?start=now-320m
+
+#EXTINF:-1 group-title="Puglia",Antenna Sud (LCN 14)
+https://live-antennasud.cdn.netrw.it/antennasud/hls/ccr/antennasud/master.m3u8
+
+#EXTINF:-1 group-title="Puglia",TeleRama (LCN 15)
+https://58d921499d3d3.streamlock.net/TeleRama/livestream/playlist.m3u8
+
+#EXTINF:-1 group-title="Puglia",TeleBari (LCN 17)
+https://w1.mediastreaming.it/telebari/livestream/playlist.m3u
+
+#EXTINF:-1 group-title="Puglia",Telesveva HD (LCN 18)
+https://live2.telesveva.com/hls/svevahd.m3u8
+
+#EXTINF:-1 group-title="Puglia",Tele Dehon (LCN 19)
+https://5f22d76e220e1.streamlock.net/rtmpteledehon/smil:rtmpteledehon.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Puglia",TRC (LCN 76)
+https://stream7.livinlive.it/trc/trc/playlist.m3u8
+
+#EXTINF:-1 group-title="Puglia",Teleregione Color (LCN 77)
+https://live-antennasud.cdn.netrw.it/antennasud/hls/ccr/teleregione/master.m3u8
+
+#EXTINF:-1 group-title="Puglia",Canale 7 (LCN 78)
+http://wms.shared.streamshow.it:80/canale7/canale7/playlist.m3u8
+
+#EXTINF:-1 group-title="Puglia",TeleMajg (LCN 79)
+https://59d7d6f47d7fc.streamlock.net/telemajg/telemajg/chunklist_w656612441.m3u8
+
+#EXTINF:-1 group-title="Puglia",Teletrullo (LCN 80)
+https://80.teletrullo.tv/hls/teletrullo2.m3u8
+
+#EXTINF:-1 group-title="Puglia",Easy TV (LCN 81)
+https://diretta.arcapuglia.it:8080/live/easytv/index.m3u8
+
+#EXTINF:-1 group-title="Puglia",Delta TV (LCN 83)
+http://hbbtv-server.zivoli.it:8080/hls/deltatv/deltatv/index.m3u8
+
+#EXTINF:-1 group-title="Puglia",TeleFoggia (LCN 88)
+http://wms.shared.streamshow.it/telefoggia/mp4:telefoggia/chunklist_w386788975.m3u8
+
+#EXTINF:-1 group-title="Puglia",Video M Italia (LCN 89)
+https://stream10.xdevel.com/video1s975675-1403/stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Puglia",Canale 2 TV (LCN 90)
+https://59d7d6f47d7fc.streamlock.net/canale2/canale2/chunklist_w811855890.m3u8
+
+#EXTINF:-1 group-title="Puglia",Antenna Sud Extra (LCN 92)
+https://live-antennasud.cdn.netrw.it/antennasud/hls/ccr/extra/master.m3u8
+
+#EXTINF:-1 group-title="Puglia",Cittadella TV (LCN 94)
+https://59d7d6f47d7fc.streamlock.net/radiocittadella/radiocittadella/chunklist_w1661780412.m3u8
+
+#EXTINF:-1 group-title="Puglia",Azzurra TV Italia (LCN 95)
+https://stream4.xdevel.com/video5s975955-1727/stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Puglia",Studio 100 TV (LCN 98)
+https://cdn16.streamshow.it/cloud-studio100/studio100/chunklist.m3u8
+
+#EXTINF:-1 group-title="Puglia",RTM (LCN 99)
+https://5f22d76e220e1.streamlock.net/rtm/rtm/playlist.m3u8
+
+#EXTINF:-1 group-title="Puglia",Barinews Canale 111 (LCN 111)
+https://stream.ets-sistemi.it:19360/barinews111/barinews111.m3u8
+
+#EXTINF:-1 group-title="Puglia",Radio Puglia Centrale TV
+https://585b674743bbb.streamlock.net/9026/9026/playlist.m3u8
+
+#EXTINF:-1 group-title="Puglia",Gargano TV (flux à vérifier)
+https://cdn22-fra.azotosolutions.com/cdnedge3/live3/playlist.m3u8
+
+################################################
+# SARDEGNA
+
+################################################
+
+#EXTINF:-1 group-title="Sardegna",Videolina (LCN 10)
+https://7e1cc2454f2242afabe05cc0a2f483cd.msvdn.net/videolina/videolina_live/videolina_live/playlist.m3u8
+
+#EXTINF:-1 group-title="Sardegna",TeleSardegna (LCN 13)
+https://f54364fcc4f84d9d9a72c8915e72704b.msvdn.net/live/S95445963/z3dZO4LpABmG/playlist.m3u8
+
+#EXTINF:-1 group-title="Sardegna",UNO4 TV (LCN 14)
+https://cdn.uno4.it/index.m3u8
+
+#EXTINF:-1 group-title="Sardegna",Odeon 24 Sardegna (LCN 18)
+https://streaming.softwarecreation.it/Odeon24SA/Odeon24SA/playlist.m3u8
+
+#EXTINF:-1 group-title="Sardegna",SUPERTV Aristanis (LCN 77)
+https://video2.azotosolutions.com:1936/supertvoristano/supertvoristano/playlist.m3u8
+
+#EXTINF:-1 group-title="Sardegna",Tele Radio Maristella (LCN 89)
+https://origin1.live-dvbt2.it/cdnedge10/live10/playlist.m3u8
+
+#EXTINF:-1 group-title="Sardegna",Sardegna 1 (LCN 99)
+https://7e1cc2454f2242afabe05cc0a2f483cd.msvdn.net/live/S30721796/ZS3Xu8mn5f0J/playlist.m3u8
+
+#EXTINF:-1 group-title="Sardegna",Visual Radio
+http://wms.shared.streamshow.it:1935/visualradio/visualradio/live.m3u8
+
+################################################
+# SICILIA
+
+################################################
+
+#EXTINF:-1 group-title="Sicilia",TGS (LCN 12)
+https://router.xdevel.com/video1s975436-143/stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Sicilia",Video Regione 14 (LCN 14)
+https://57214cb311b91513952b03.msvdn.net/live/S40896499/ZuaLjACsWIL4/playlist.m3u8
+
+#EXTINF:-1 group-title="Sicilia",Tele One 16 (LCN 16)
+https://648026e87a75e.streamlock.net/teleone/teleone/playlist.m3u8
+
+#EXTINF:-1 group-title="Sicilia",Video Mediterraneo (LCN 17)
+https://streamcdnb4-bfbe5f347ac4424faf719dda285bc39e.msvdn.net/live/S54897858/4gWO7tTzpK3N/playlist.m3u8
+
+#EXTINF:-1 group-title="Sicilia",REI TV (LCN 18)
+https://5f22d76e220e1.streamlock.net/reitv/reitv/playlist.m3u8
+
+#EXTINF:-1 group-title="Sicilia",TVM Palermo 19 (LCN 19)
+https://5db313b643fd8.streamlock.net/tvmpa/tvmpa/playlist.m3u8
+
+#EXTINF:-1 group-title="Sicilia",RTP TV HD (LCN 19)
+http://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8
+
+#EXTINF:-1 group-title="Sicilia",Onda TV Sicilia (LCN 75)
+https://5926fc9c7c5b2.streamlock.net/9040/9040/chunklist_w1247497225.m3u8
+
+#EXTINF:-1 group-title="Sicilia",Vintage Radio TV (LCN 76)
+https://5f22d76e220e1.streamlock.net/vintageradiotv/vintageradiotv/playlist.m3u8
+
+#EXTINF:-1 group-title="Sicilia",TeleGela (LCN 77)
+https://64b16f23efbee.streamlock.net/telegela/telegela/playlist.m3u8
+
+#EXTINF:-1 group-title="Sicilia",Tele Rent 7 Gold (LCN 78)
+https://router.xdevel.com/video0s86-21/stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Sicilia",Tele Iblea (LCN 79)
+https://5f22d76e220e1.streamlock.net:443/teleiblea/teleiblea/playlist.m3u8
+
+#EXTINF:-1 group-title="Sicilia",RMK 80 TV (LCN 80)
+https://648026e87a75e.streamlock.net/rmktv/rmktv/chunklist_w2118491473.m3u8
+
+#EXTINF:-1 group-title="Sicilia",Turismo TV (LCN 80)
+https://64b16f23efbee.streamlock.net/turismotv/turismotv/playlist.m3u8
+
+#EXTINF:-1 group-title="Sicilia",6 Sestarete TV (LCN 81)
+https://64b16f23efbee.streamlock.net/sestarete/sestarete/playlist.m3u8
+
+#EXTINF:-1 group-title="Sicilia",La Tr3 Marsala (LCN 83)
+https://tsw.streamingwebtv24.it:1936/eslife1/eslife1/playlist.m3u8
+
+#EXTINF:-1 group-title="Sicilia",Tele Pegaso TV (LCN 85)
+https://stream10.xdevel.com/video0s977504-2067/stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Sicilia",Alpa Uno TV (LCN 86)
+https://5f22d76e220e1.streamlock.net/alpaunotv/alpaunotv/playlist.m3u8
+
+#EXTINF:-1 group-title="Sicilia",Prima TV (LCN 88)
+https://5db313b643fd8.streamlock.net/PrimaTV/PrimaTV/chunklist_w1827249215.m3u8
+
+#EXTINF:-1 group-title="Sicilia",Tele Tris (LCN 89)
+https://streaming.teletris.it/tmp_hls/live/index.m3u8
+
+#EXTINF:-1 group-title="Sicilia",TeleMistretta (LCN 90)
+https://live.mariatvcdn.com/telemistretta/8fbcd205ada81b295ee6c211c3a80dde.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="Sicilia",TVA Video Agrigento (LCN 92)
+https://media2021.rtvweb.com/tva/live/playlist.m3u8
+
+#EXTINF:-1 group-title="Sicilia",Bella Radio TV (LCN 96)
+https://server.bellaradio.it:1443/live/bellaradiotv/playlist.m3u8
+
+#EXTINF:-1 group-title="Sicilia",Canale 97 (LCN 97)
+https://5db313b643fd8.streamlock.net/canale97/canale97/playlist.m3u8
+
+#EXTINF:-1 group-title="Sicilia",TCF TV (LCN 113)
+https://stream10.xdevel.com/video1s977294-1864/stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Sicilia",ADN24 TV (LCN 115)
+https://64b16f23efbee.streamlock.net/adn24tv/adn24tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Sicilia",TeleVallo (LCN 115)
+https://64b16f23efbee.streamlock.net/televallo/televallo/playlist.m3u8
+
+#EXTINF:-1 group-title="Sicilia",Tele8 (LCN 117)
+https://57068da1deb21.streamlock.net/teletv8/teletv8/playlist.m3u8
+
+#EXTINF:-1 group-title="Sicilia",Radio Taormina TV (LCN 180)
+https://router.xdevel.com/video1s3-7/stream/playlist_dvr.m3u8
+
+#EXTINF:-1 group-title="Sicilia",DOC TV (LCN 184)
+https://64b16f23efbee.streamlock.net/radiodoctv/radiodoctv/playlist.m3u8
+
+#EXTINF:-1 group-title="Sicilia",Video Star (LCN 193)
+https://stream9.xdevel.com/video0s976556-1321/stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Sicilia",Telejato (LCN 195)
+https://648026e87a75e.streamlock.net/telejato/telejato/playlist.m3u8
+
+#EXTINF:-1 group-title="Sicilia",Etna Channel (LCN 199)
+https://5db313b643fd8.streamlock.net/Etnachannelponte/Etnachannelponte/playlist.m3u8
+
+#EXTINF:-1 group-title="Sicilia",Sicilia 242 (LCN 242)
+https://5f22d76e220e1.streamlock.net/sicilia24/sicilia24/playlist.m3u8
+
+#EXTINF:-1 group-title="Sicilia",RMC101 TV (LCN 612)
+https://5db313b643fd8.streamlock.net/RMC101TV/RMC101TV/chunklist_w2083631440.m3u8
+
+#EXTINF:-1 group-title="Sicilia",Globus Television (HbbTV 15/18)
+https://5f22d76e220e1.streamlock.net/globustelevision/globustelevision/playlist.m3u8
+
+#EXTINF:-1 group-title="Sicilia",Nuova TV 1 (HbbTV)
+https://nuovatv.net:8443/tv/stream.m3u8
+
+#EXTINF:-1 group-title="Sicilia",WLTV
+https://5db313b643fd8.streamlock.net/WLTV/WLTV/playlist.m3u8
+
+#EXTINF:-1 group-title="Sicilia",In Sicilia TV
+https://broadcasting.mediagroupsrl.it:1433/hls/mystream.m3u8
+
+#EXTINF:-1 group-title="Sicilia",Radio Time TV
+https://router.xdevel.com/video0s975521-196/stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Sicilia",RTA - Radio Tivù Azzurra
+https://video.azotosolutions.com:9553/radiotivuazzurralive/radiotivuazzurralive/playlist.m3u8
+
+#EXTINF:-1 group-title="Sicilia",Zerouno TV Music (HbbTV 68)
+https://5f22d76e220e1.streamlock.net/zerounotvmusic/zerounotvmusic/playlist.m3u8
+
+#EXTINF:-1 group-title="Sicilia",Zerouno News (HbbTV 68/833)
+https://5f22d76e220e1.streamlock.net/01news/01news/playlist.m3u8
+
+################################################
+# TOSCANA
+
+################################################
+
+#EXTINF:-1 group-title="Toscana",RTV38 (LCN 10)
+https://845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/rtv38/rtv38_live_main/mainabr/playlist_dvr.m3u8
+
+#EXTINF:-1 group-title="Toscana",TV9 (LCN 13)
+https://view.dacast.com/76305317bd6d5f2af13478c9b0ef4aef-live-6339ee65498e3ca8e75590daa7e447f5/adaptive.m3u8
+
+#EXTINF:-1 group-title="Toscana",Granducato TV (LCN 15)
+https://www.granducatotv.eu/tv/granducato/hls/index.flashls.m3u8.php?cid=0&m3u8=.m3u8
+
+#EXTINF:-1 group-title="Toscana",Teletruria (LCN 16)
+https://cb01a76aa80f4069b2bf82c90466134a.msvdn.net/live/S79636643/7iyY76l3IDBd/playlist_dvr.m3u8
+
+#EXTINF:-1 group-title="Toscana",50 Canale (LCN 18)
+https://load-balancer.azotosolutions.com/cdnedge37/canale50/playlist.m3u8
+
+#EXTINF:-1 group-title="Toscana",TV Prato (LCN 75)
+https://live.mariatvcdn.com/tvprato/2db0dd5674586686a867ec52c3aa8e06.sdp/mono.m3u8
+
+#EXTINF:-1 group-title="Toscana",Firenze TV (LCN 80)
+https://39f0a786c3fb4d3fab9ec6870cc428f9.msvdn.net/live/S10341261/Wl6aWcmb8xsQ/playlist.m3u8
+
+#EXTINF:-1 group-title="Toscana",Mitology TV (LCN 82)
+https://64b16f23efbee.streamlock.net/mitologytv/mitologytv/playlist.m3u8
+
+#EXTINF:-1 group-title="Toscana",TC2 News (LCN 83)
+https://5f22d76e220e1.streamlock.net/telecentro2/telecentro2/playlist.m3u8
+
+#EXTINF:-1 group-title="Toscana",C3T (LCN 84)
+https://stream4.xdevel.com/video0s976737-1453/stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Toscana",TSD (LCN 85)
+https://stream.mariatvcdn.com/tsd/7c59373bfdb38201b9215ff86f0ce6af.sdp/mono.m3u8
+
+#EXTINF:-1 group-title="Toscana",Telecamaiore (LCN 89)
+https://tv.ccn.it/hls/0/stream.m3u8
+
+#EXTINF:-1 group-title="Toscana",Siena TV (LCN 91)
+https://router.xdevel.com/video0s976727-1441/stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Toscana",NTI (LCN 93)
+https://www.ntimedia.it/video/S0B/S0B_master.m3u8
+
+#EXTINF:-1 group-title="Toscana",Tele Firenze Viola Super Sport (LCN 96)
+https://tmw.fluid.stream/rfviola_tv/livestream/playlist.m3u8
+
+#EXTINF:-1 group-title="Toscana",Amaranto Channel (LCN 97)
+https://10529e63b0a84fb6bdf487096cc5eaab.msvdn.net/live/S10857183/qMq5TNxA3ouH/playlist.m3u8
+
+#EXTINF:-1 group-title="Toscana",Antenna 3 Toscana (LCN 99)
+https://media2021.rtvweb.com/antenna3massa/a3/playlist.m3u8
+
+#EXTINF:-1 group-title="Toscana",Libera TV (LCN 110)
+https://oj7lnw79lg82-hls-live.mariatvcdn.it/mariatvcdn/70564e1c6884c007c76f0c128d679eed.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="Toscana",Idea Plus TV (LCN 112)
+https://rst2.saiuzwebnetwork.it:8081/ideaplus/index.m3u8
+
+#EXTINF:-1 group-title="Toscana",Business Channel
+https://64b16f23efbee.streamlock.net/businesschannel/businesschannel/playlist.m3u8
+
+#EXTINF:-1 group-title="Toscana",Retemia
+https://5db313b643fd8.streamlock.net/rete/rete/playlist.m3u8
+
+################################################
+# TRENTINO-ALTO ADIGE
+
+################################################
+
+#EXTINF:-1 group-title="Trentino-Alto Adige",Trentino TV (LCN 10)
+https://tntv.fluid.stream/TrentinoTV/livestream/playlist.m3u8
+
+#EXTINF:-1 group-title="Trentino-Alto Adige",AltoAdige TV (LCN 11)
+https://5f204aff97bee.streamlock.net/AltoAdigeTV/livestream/playlist.m3u8
+
+#EXTINF:-1 group-title="Trentino-Alto Adige",Peer TV Alto Adige (LCN 12)
+https://iptv.peer.biz/live/peertv-it.m3u8
+
+#EXTINF:-1 group-title="Trentino-Alto Adige",Telepace Trento (LCN 12)
+https://5a1178b42cc03.streamlock.net/telepacetrento/telepacetrento/playlist.m3u8
+
+#EXTINF:-1 group-title="Trentino-Alto Adige",RTTR (LCN 14)
+https://rttr.fluid.stream/RTTRlive/livestream/playlist.m3u8
+
+#EXTINF:-1 group-title="Trentino-Alto Adige",TV33 BZ (LCN 19)
+https://64b16f23efbee.streamlock.net/tv33bz/tv33bz/playlist.m3u8
+
+#EXTINF:-1 group-title="Trentino-Alto Adige",TV33 TN (LCN 19)
+https://64b16f23efbee.streamlock.net/tv33tn/tv33tn/playlist.m3u8
+
+################################################
+# UMBRIA
+
+################################################
+
+#EXTINF:-1 group-title="Umbria",Umbria TV (LCN 10)
+https://umbriatv.stream.rubidia.it:8083/live/umbriatv/playlist.m3u8
+
+#EXTINF:-1 group-title="Umbria",Retesole (LCN 11)
+https://5926fc9c7c5b2.streamlock.net/9332/9332/playlist.m3u8
+
+#EXTINF:-1 group-title="Umbria",TRG Media (LCN 13)
+https://www.trgmedia.it/hls/livestreamHD.m3u8
+
+#EXTINF:-1 group-title="Umbria",È TV Umbria (LCN 19)
+https://live.ipstream.it/etvumbria/etvumbria.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Umbria",Tele Radio Orte (LCN 77)
+https://stream10.xdevel.com/video0s977516-2077/stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Umbria",AM Terni Television (LCN 84)
+https://stream9.xdevel.com/video0s976364-1176/stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Umbria",Tele Galileo (LCN 114)
+https://samson.streamerr.co:8081/telegalileo-1/index.m3u8
+
+#EXTINF:-1 group-title="Umbria",Errevutì TV (LCN 116)
+https://stream10.xdevel.com/video0s977339-1877/stream/playlist.m3u8
+
+
+################################################
+# VALLE D'AOSTA
+################################################
+
+#EXTINF:-1 group-title="Valle d'Aosta",Telecity Valle d'Aosta (LCN 10)
+https://64b16f23efbee.streamlock.net/telecityvda/telecityvda/playlist.m3u8
+
+#EXTINF:-1 group-title="Valle d'Aosta",Rete 7 HD (LCN 13)
+https://stream.ets-sistemi.it:2020/hls/rete7-live/rete7-live.m3u8
+
+#EXTINF:-1 group-title="Valle d'Aosta",PrimAntenna TV (LCN 14)
+https://5f22d76e220e1.streamlock.net/primantenna14/primantenna14/playlist.m3u8
+
+################################################
+# VENETO
+################################################
+
+#EXTINF:-1 group-title="Veneto",Antenna 3 Veneto (LCN 10)
+https://59d7d6f47d7fc.streamlock.net/antennatreveneto/antennatreveneto.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Veneto",Telenuovo (LCN 11)
+https://ovp-live.akamaized.net/ac106_live/ac106_source_001_3/playlist.m3u8
+
+#EXTINF:-1 group-title="Veneto",TVA Vicenza (LCN 13)
+https://fms.telemar.it:1936/live/diretta_1/playlist.m3u8
+
+#EXTINF:-1 group-title="Veneto",Rete Veneta (LCN 14)
+https://59d7d6f47d7fc.streamlock.net/reteveneta/reteveneta/playlist.m3u8
+
+#EXTINF:-1 group-title="Veneto",TeleArena (LCN 16)
+https://58d921499d3d3.streamlock.net/TeleArena/TeleArena.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Veneto",Telechiara (LCN 17)
+https://fms.telemar.it:1936/telechiara/diretta/chunklist_w285735564.m3u8
+
+#EXTINF:-1 group-title="Veneto",La Tenda TV (LCN 19)
+https://2-fss-1.streamhoster.com/pl_148/206202-2980948-1/playlist.m3u8
+
+#EXTINF:-1 group-title="Veneto",Telebelluno Dolomiti (LCN 75)
+https://g2qd3exzy7an-hls-live.mariatvcdn.it/livetelebelluno/be0e3154b820953ce1a94a937bb2bb5d.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="Veneto",Radio Piterpan TV (LCN 76)
+https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8
+
+#EXTINF:-1 group-title="Veneto",Radio Birikina TV (LCN 78)
+https://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/playlist.m3u8
+
+#EXTINF:-1 group-title="Veneto",Radio Bellla & Monella TV (LCN 79)
+https://58d921499d3d3.streamlock.net/RadioBelllaemonellaTV/livestream/playlist.m3u8
+
+#EXTINF:-1 group-title="Veneto",Televenezia (LCN 80)
+https://59d7d6f47d7fc.streamlock.net/televenezia/televenezia.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Veneto",Teledolomiti (LCN 81)
+https://stream.mariatvcdn.com/teledolomiti/a66b8b8ac2baee06f136e87b9805774d.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="Veneto",Radio Sorrriso TV (LCN 82)
+https://56b50ada2d659.streamlock.net/RadioSorrrisoTV/livestream/playlist.m3u8
+
+#EXTINF:-1 group-title="Veneto",Telecittà (LCN 83)
+https://soobeat.fluid.stream/Telecitta/livestream/playlist.m3u8
+
+#EXTINF:-1 group-title="Veneto",CafèTV24 (LCN 85)
+https://srvx1.selftv.video/cafe/live/playlist.m3u8
+
+#EXTINF:-1 group-title="Veneto",Radio Adige TV (LCN 86)
+https://stream9.xdevel.com/video0s976463-1250/stream/playlist.m3u8
